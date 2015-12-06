@@ -1,0 +1,665 @@
+Behavioral Health Insurance Parity: Does Oregon’s Experience
+Presage the National Experience with the Mental Health Parity
+and Addiction Equity Act?
+K. John McConnell, Ph.D, Samuel H.N. Gast, B.A, M. Susan Ridgely, J.D, Neal Wallace,
+Ph.D, Natalie Jacuzzi, M.P.H, Traci Rieckmann, Ph.D, Bentson H. McFarland, M.D., Ph.D,
+and Dennis McCarty, Ph.D
+Oregon Health & Science University (K.J.M., S.H.N.G., N.J., T.R., B.H.M., D.M.); RAND
+Corporation (M.S.R.); Portland State University (N.W.)
+Abstract
+Objective—The Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity
+Act prohibits commercial group health plans from imposing spending and visit limitations for
+mental health and substance abuse services that are not imposed on medical-surgical benefits.
+Controversially, the Act also restricts the use of managed care tools that apply to the behavioral
+health benefit in ways that differ from their application to the medical-surgical benefit. The only
+precedent for this approach is Oregon’s state parity law, implemented in 2007. The goal of this
+study is to estimate the effect of Oregon’s parity law on expenditures for mental health and
+substance abuse treatment services.
+Methods—We compared expenditures for individuals in four Oregon commercial plans from
+2005 through 2008 to a matched group of commercially insured individuals in Oregon who were
+exempt from parity. Using a difference-in-differences analysis, we analyzed the effect of
+comprehensive parity on spending for mental health and substance abuse services.
+Results—Increases in spending on mental health and substance abuse services following
+Oregon’s parity law were due almost entirely to a general trend observed among individuals with
+and without parity. Expenditures per enrollee for mental health and substance abuse services
+attributable to parity were positive but did not differ significantly from zero in any of the four
+plans (range: +$12.15 to +$25.49, p>0.05 for each comparison).
+Conclusion—Behavioral health insurance parity that places restrictions on how plans manage
+mental health and substance abuse services can improve insurance protections without substantial
+increases in total costs.
+INTRODUCTION
+Coverage of mental health and substance abuse treatment on par with medical-surgical
+benefits is a policy option often referred to as “parity.” Without parity laws, commercial
+insurers have tended to limit coverage for mental health and substance use services,
+primarily because of concerns that equalizing coverage for these services would lead to
+substantial increases in utilization and spending.(1–4) Advocates for parity believe that the
+policy will increase access to mental health and substance abuse treatment and reduce outAddress
+correspondence and reprint requests to Dr. K. John McConnell, Oregon Health & Science University, 3181 Sam Jackson Rd.,
+Mail Code CR-114, Portland, OR 97239; mcconnjo@ohsu.edu.
+Portions of this work were presented at the 2010 Academy Health Annual Research Meeting (Hynes Convention Center, Boston).
+Dr. K. John McConnell reports no competing interests.
+NIH Public Access
+Author Manuscript
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+Published in final edited form as:
+Am J Psychiatry. 2012 January ; 169(1): 31–38. doi:10.1176/appi.ajp.2011.11020320.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+of-pocket costs for consumers. After years of failed attempts at the federal level, advocates
+for parity won a significant victory in 2008, when President George W. Bush signed into law
+the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act
+(MHPAEA), PL 110–343 (2008). The law became effective beginning in October, 2009.
+The federal law represents a new era for coverage of behavioral health conditions. It is
+substantially more comprehensive than the previous federal parity law and considerably
+stronger than most state parity laws. The law requires plans covering mental health and
+substance abuse services to offer them at the same level of benefits for those services as they
+provide for medical-surgical services. In other words, the law forbids health plans from
+employing “quantitative” treatment limitations (such as spending and visit limitations for
+behavioral health services) that are more restrictive than those offered for physical health.
+Furthermore, it also disallows the use of “non-quantitative” treatment limitations that affect
+the scope or duration of benefits for treatment and that apply to behavioral health but not
+physical health.
+By addressing “non-quantitative” treatment limitations, the law has been interpreted as a
+restriction on the use of managed care tools (such as medical necessity, prior authorization
+or utilization review) that apply to the behavioral health benefit in ways that differ from their
+application to the medical-surgical benefit. The interim regulations implementing the
+MHPAEA, released in 2010, have been controversial and the subject of a lawsuit by
+managed behavioral health organizations that was intended to stop their implementation.(5)
+The plaintiffs argued that total costs would rise under the federal parity law if they were
+prohibited from managing behavioral health services differently than medical-surgical
+services.
+Previous studies have consistently demonstrated that parity, coupled with differential
+management of the behavioral health benefit, can be implemented without large increases in
+the cost of behavioral health services.(6–11) In fact, when parity was introduced in the
+Federal Employees Health Benefits Program (FEHBP), the Office of Personnel Management
+encouraged its health plans to implement mental health carve outs and to increase the use of
+utilization management in anticipation of cost increases.(8) Implementation of the
+MHPAEA is most clearly differentiated from previous parity implementations because the
+regulations restrict the use of the very non-quantitative treatment limits many believe are
+responsible for containing behavioral health costs.(12) It is unclear if behavioral health
+parity will lead to higher costs if behavioral health services are not allowed to be managed
+differently than medical-surgical services.
+In this study, we examine the effects of Oregon’s comprehensive state parity law,
+implemented in 2007. Oregon’s law is among the most comprehensive state parity laws,
+broadly defining mental health, including alcohol and substance abuse, and including no
+small business exemptions (see Table 1). The Oregon law is particularly noteworthy – and
+parallels the MHPAEA – in its restrictions on management of the benefit, disallowing the
+differential use of non-quantitative treatment limitations. Thus, the Oregon law is of
+particular salience to the federal experience. Presumably, if Oregon’s parity implementation
+has led to substantial increases in expenditures for behavioral health services, this would
+argue in favor of differential management of the behavioral health benefit. However, if
+comprehensive parity, coupled with the same management applied to the medical-surgical
+benefit, has had a negligible effect on expenditures in Oregon, then differential management
+may not be necessary. In this case, there may not be a strong economic argument against the
+restrictions on non-quantitative treatment limitations found in the regulations implementing
+the MHPAEA.
+McConnell et al. Page 2
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+METHODS
+The Oregon parity law went into effect on January 1, 2007. The statute contained a very
+broad definition of mental health and addiction, including almost all disorders in the
+American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders
+(DSM-IV-TR, revised in 2000). This moved Oregon from a group of seven states with
+minimal parity mandates into a select group of two states (the other being Vermont) with the
+most comprehensive parity law in the country. Parity applied to in- and out-of-network
+providers. The Oregon Insurance Division interpreted the statute to mean that managed care
+tools such as “selectively contracted panels of providers, health policy benefit differential
+designs, preadmission screening, prior authorization, case management, utilization review,
+or other mechanisms designed to limit eligible expenses to treatment that is medically
+necessary” could not be used unless there was an analog in the management of medicalsurgical
+benefits.(13)
+The Oregon parity law applied to all commercially insured group health plans that were not
+self insured, representing about 70% of individuals in commercial group plans in Oregon.
+The other 30% of individuals in group plans were in self insured plans, in which the
+employer contracts with a health plan to administer the benefits but the employer assumes
+financial risk for the payment of all claims. These self insured plans are exempt from state
+insurance laws as part of the Employee and Retirement Income Security Act of 1974
+(ERISA).
+We studied the expenditures and utilization of enrollees between the ages of 4 and 64 who
+were continuously enrolled in one of four Preferred Provider Organization (PPO) health
+plans affected by the 2007 Oregon parity law. We examined changes in access, out-ofpocket
+spending and total spending on mental health and substance abuse services. To
+account for changes over time unrelated to the parity law, we used a comparison group of
+Oregonians who were continuously enrolled in self insured commercial PPO plans.
+Data
+We collected information on benefit design and management from structured, on-site
+interviews with key informants at each of the four PPO plans. We used an adaptation of the
+semi-structured interview schedule developed for the evaluation of parity in the Federal
+Employees Health Benefits Program.(8) We collected data on a variety of non-quantitative
+treatment limitations that are common to both the Oregon regulations and the MHPAEA,
+including prior authorization, the use of treatment plans as a utilization management tool,
+and the use of “carve outs” (separate management of the behavioral health benefit by a
+specialty organization).
+From each of the four PPOs, we also obtained four years of data on enrollment and medical
+and pharmacy claims, including two years before and two years after the implementation of
+parity. We also obtained claims data on a comparison cohort of individuals continuously
+enrolled in self insured plans in Oregon from the Thomson Reuters’ MarketScan database.
+We classified inpatient and outpatient services associated with specified mental health and
+substance abuse diagnoses and psychotropic medications as mental health and substance
+abuse services based on previous work.(8) Briefly, mental health and substance abuse
+diagnoses were defined as those with diagnostic codes 291, 292, 295 through 309 (except
+305.1 and 305.8), and 311 through 314 in the International Classification of Diseases, 9th
+Revision, Clinical Modification (ICD-9-CM). An inpatient visit was classified as behavioral
+health if the primary diagnosis was a mental health or substance abuse diagnosis. An
+outpatient visit was classified as mental health or substance abuse related if it had a mental
+McConnell et al. Page 3
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+health or substance abuse primary diagnosis or a procedure code specific to mental health
+and substance abuse care. To identify use of psychotropic medications, we updated
+Goldman and colleagues’ methodology(8) to include psychotropic drugs released since
+2001. The full list of psychotropic medications is available at Appendix A (SA1).
+Statistical Analysis
+We estimated the effect of parity on spending and access using the difference-in-differences
+method. The difference-in-differences is the average difference (occurring with the
+implementation of parity) in outcomes of interest among Oregonians in PPOs affected by
+parity, minus the average difference (after the parity implementation) among the comparison
+group (individuals in self insured plans not affected by the parity legislation). The first
+difference reflects changes in the outcome of interest (use or expenditures) that occur after
+the parity implementation. By subtracting the second difference – the changes that occur in
+the comparison group – we net out the secular changes that may have occurred for reasons
+not related to the parity law. Any remaining significant differences in outcome – the
+difference-indifferences – are attributed to the parity legislation.
+To estimate the difference-in-differences model, we used a two-part model that
+accommodated two important characteristics of health care spending.(14) First, in any given
+year, many individuals will not have any behavioral health visits or expenditures. Thus, our
+dependent variable will have a large cluster of observations at zero. Second, among
+individuals who do use care, the distribution tends to be skewed, with a small proportion of
+individuals having high levels of spending. After testing competing models, we settled on a
+two-part generalized linear model with a log link and gamma variance distribution to
+estimate the relation between spending on mental health and substance abuse treatment and
+parity.(15) In our estimates, we show the probability of any use of mental health and
+substance abuse services (which is part one of the two-part model), and total spending for
+mental health and substance abuse services (which combines part one and part two of the
+two part model). We used bootstrapping clustered at the individual level to generate 95%
+confidence intervals that account for correlation among repeated annual observations.
+Our unit of observation was the person year. There were four observations for each
+individual: two years pre-parity, and two years post-parity. In our regressions, we adjusted
+for age, gender, the person’s relationship to the policyholder (child or spouse), and a marker
+for rural vs. urban residence.(16) The key variables of interest were an indicator variable
+assigned a value of one for the post-parity period and zero for the pre-parity period, an
+indicator variable assigned a value of one for individuals covered by parity (i.e. not in a self
+insured plan) and zero for the comparison group, and the interaction of the two indicator
+variables. We conducted analyses on each of the four plans separately, with the self insured
+individuals acting as a control group, as well as an analysis that pooled all four plans and
+used the self insured individuals as a control group.
+In addition to the analyses of the population as a whole, we also provide a subanalyses of the
+effect of parity on children (age <=18).
+RESULTS
+Detailed information on benefit limits and management for the four PPOs are displayed in
+Table 2. Whereas previous studies of parity have shown an increase in the use of
+management techniques,(8, 9) such as prior authorization and treatment plans, in Oregon the
+use of these methods either stayed constant or declined. Among the four plans we studied,
+none required preauthorization for outpatient mental health or substance abuse services after
+the implementation of parity. Only two of the four PPOs required treatment plans (a written
+McConnell et al. Page 4
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+plan describing goals, methods, and anticipated time for treatment) for outpatient mental
+health services, and only one PPO required treatment plans for outpatient substance abuse
+services. Nonetheless, there was still considerable variation in the extent to which plans
+attempted to manage the behavioral health benefit, and compliance and interpretation of the
+parity law was inconsistent across plans.
+Table 3 reports descriptive data on individuals in the four PPOs and in the comparison group
+(i.e., those unaffected by parity). While there are some statistically significant differences in
+the population (e.g., individuals in the self insured group are more likely to be female and
+less likely to be the policy holder; individuals in Plan C were less likely to be located in
+rural areas), overall the intervention and comparison subjects are fairly comparable and
+exhibited a similar prevalence of behavioral health diagnoses.
+Table 4 reports rates of use of mental health and substance abuse services and spending for
+service users. For all plans, the rates of use and spending increased during the study period.
+Table 4 also reports difference-in-differences estimates for the probability of use of mental
+health and substance abuse services and for spending on such services. After accounting for
+secular trends, the overall estimate of the effect of parity on total behavioral health spending
+was moderate, ranging from $12 to $26, and did not differ significantly from zero.
+Furthermore, the increases in spending were not necessarily smaller for plans that required
+treatment plans or carved out behavioral health care. The largest point estimate increase was
+for Plan D ($25.49), which used a carve out and required treatment plans after 8 visits. The
+final row in Table 4 displays results from the analysis that pooled plans A, B, C and D. The
+point estimate of the effect of parity in the pooled analysis (using 100,328 individuals
+subject to parity and 19,634 individuals in self insured plans for comparison) was $15.15
+and not significantly different from zero (95% CI −$1.58, $31.25).
+Table 5 reports rates of use of mental health and substance abuse services and differenceindifference
+estimates of the effect of parity on children. Compared to the population as a
+whole, children are much less likely to access care (e.g., a probability of accessing care
+almost half that of the general population). However, conditional on accessing care, their
+expenditures are higher, so average spending per child beneficiary is relatively close to
+average spending per adult. In the difference-in-difference analyses, point estimates for total
+change in spending after parity are higher for children than the general population (e.g.,
+estimates for children range between +$15.25 to +$36.62, compared to the range of +$12.15
+to +$25.49 in the general population). However, in the analyses of children, no plan
+demonstrates a statistically significant increase in spending. Separate analyses for adults
+(provided in the online supplement) demonstrate similar findings, with estimates of the
+effect of parity on adults ranging from of +$12.02 to +$26.29, with none statistically
+significant.
+Oregon’s parity law also required that co-insurance, co-payments, and deductibles be
+identical for behavioral health and medical-surgical care, although this policy had been the
+de facto practice for most health plans. Table 6 summarizes the effects of parity on out-ofpocket
+spending by users of mental health and substance abuse services. In two of the four
+plans, parity was associated with a small but statistically significant decrease in out-ofpocket
+spending (Plans A and B). One plan (Plan D) demonstrated a small but statistically
+significant increase in out-of-pocket spending. This increase reflected an overall trend in
+higher deductibles and cost-sharing that were introduced throughout Plan D’s insurance
+offerings.
+McConnell et al. Page 5
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Sensitivity Analyses
+We also estimated our difference-in-difference models using propensity score weighting on
+patient demographics and behavioral health risk adjusters.(17) The results from this
+approach were qualitatively similar to the results from the difference-in-difference models
+without the propensity score model. Thus, the small differences in population characteristics
+displayed in Table 3 do not appear to be confounding the estimates of the effect of parity on
+behavioral health spending. The details of these analyses along with other analyses that
+investigate the adequacy of the control group and provide additional information on the
+context of the Oregon parity law are included as an online supplement.
+DISCUSSION
+This study is the first to examine a parity implementation that restricted non-quantitative
+treatment limitations, which is the approach that has been favored in the MHPAEA. The
+Oregon Insurance Division actively interpreted the statute to mean that the behavioral health
+benefit could not be managed in a way that was different from the medical-surgical benefit.
+Our results suggest that this form of parity did not result in increases in expenditures for
+mental health and substance abuse services that were substantially larger than those
+observed among a comparison group of privately insured individuals not subject to the
+parity law.
+The point estimate for the change in spending for our four PPO plans was positive and
+ranged between $12 and $26, and none differed significantly from zero. One possible
+explanation for this negative finding is that our evaluation lacked the necessary power to
+show a statistically significant effect. However, the pooled analysis (using 100,328
+individuals covered by parity) was not significantly different from zero.
+The negative finding could also be related to the notion that parity primarily affects a
+relatively small population of individuals who need additional outpatient treatment. The
+added expense of this increase in outpatient utilization may be relatively small when
+compared to the overall year-to-year spending attributable to inpatient care and prescription
+drug use for mental health and substance abuse services. The lack of a significant increase in
+expenditures may also be related to plans’ pre-parity approach to the quantitative limits.
+During our structured interviews with health plans, several indicated that these limitations
+were not 100% binding and exceptions could be made. These exceptions could occur with
+providers who were in the plan’s behavioral health network, and would be managed and
+observed closely. According to plans, before parity, there was never any exception for
+providers who were out of network.
+Table 7 provides some indication of the “exceptions” that plans made to their visit
+limitations prior to the parity implementation. (We note that our estimate is likely to be
+biased upwards since health plans may have differentiated between different types of
+outpatient behavioral health visits). In general, approximately 5% of patients with any
+behavioral health visit exceeded the specified limits of that plan. The apparent flexibility in
+these “limits” prior to the parity law may be one reason that the implementation of parity did
+not lead to large increases in spending.
+Our negative findings suggest that the impact of federal parity on total health care spending
+could be relatively small. Overall, behavioral health expenditures are a small portion of total
+spending. In our study, expenditures for mental health and substance abuse services
+accounted for approximately 6.0% to 7.4% of total expenditures, depending on the health
+plan. An increase in behavioral health spending of $25 (the largest point estimate in our
+study) would be equivalent to a 1.0% increase in total spending. Thus, even if parity did
+McConnell et al. Page 6
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+result in statistically significant expenditures that our study was not powered to detect, the
+impact on the total premium would still be relatively modest.
+While many observers believe that managing the behavioral health benefit is beneficial for
+patients, some have described the partnering of parity and managed care as “a Faustian
+bargain”: undesirable but necessary to keep costs in check.(18) The Oregon experience
+suggests that the Faustian bargain may not be necessary. That is, it may be possible to
+remove visit limitations without imposing onerous managed care utilization methods on
+behavioral health services. However, this does not mean that no managed care would be
+optimal. Oregon’s commercial health plans continued to use traditional managed care tools
+to control costs and utilization. The distinction enforced by the Oregon Insurance Division
+was that plans were not allowed to differentially manage behavioral health services.
+Our study has several limitations that should be noted. In our quasi-experimental design, our
+comparison group consisted of individuals in Oregon who had commercial insurance and
+whose employers were self insured and thus not affected by Oregon’s parity law. There is a
+risk that this was not the appropriate comparison group or that this choice did not adequately
+control for secular trends. However, it is reassuring that individuals from the self insured
+plans generally had similar demographic and spending characteristics and were located in
+the same geographical and service areas. Our negative finding could also be attributed to
+statewide changes in the ways that providers cared for all of their patients after parity was
+implemented. For example, providers may have been confused or unable to discern which
+patients were covered by the parity statute and which were not, and may have recommended
+additional visits for their entire patient population. If this were the case, it might mask the
+increases in spending attributable to parity because the control group was also receiving
+more intensive treatment.
+However, close inspection of the self insured data did not detect discrete changes in
+spending after the Oregon parity law. Rather, spending in the control group followed a
+relatively smooth, linear time trend over the four year study period. Figure 1 displays the
+average quarterly spending for our self-insured group, compared to a linear trend forecast
+based on the first eight quarters (pre-parity) of spending. These data do not suggest any large
+changes in spending that coincided with the implementation of the Oregon parity law.
+Additional evidence to support our comparison group is provided in the online supplement.
+This study is also limited in its analysis of only four PPO plans in Oregon. While these plans
+represented the majority of the non-self insured commercial market, they may not be
+representative of other commercial plans in Oregon or commercial plans throughout the
+United States. Although we conducted extensive interviews with key informants in each of
+those plans and documented their management practices, there may be unobserved factors
+particular to our four study plans (e.g., cooperative relationships with providers) that
+allowed them to keep costs in check.
+It is also possible that there may have been other non-quantitative treatment limitations that
+were responsible for controlling costs. We focused our attention on the same set of
+utilization management techniques that were studied in the Federal Employees Health
+Benefits Program(19) and in a recent survey of 368 commercial health plans.(20) However,
+there may have been other relevant indicators that we did not study. Furthermore, we also
+only examined whether plans had certain utilization management policies and not how strict
+health plans were in applying them. These data are difficult to obtain and beyond the scope
+of this study.
+This study is also limited by its time frame, which covered two years of pre-parity and two
+years of post-parity observations. While we would expect that this would be adequate to
+McConnell et al. Page 7
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+capture changes in patient behavior, it may not be long enough to capture changes in
+provider behavior. In particular, if providers see parity laws as an opportunity to expand
+business and services, they may invest in infrastructure and facilities that could have longerterm
+consequences for the costs of treating behavioral health disorders.
+Certain aspects of Oregon’s insurance market and health care delivery system may not be
+generalizable to other parts of the country. Oregon is generally considered to have a
+competitive insurance market. At least seven Oregon-based plans participate in the non-self
+insured group market, with the largest plan only capturing 31% of those beneficiaries.(21)
+The state has authority to review proposed rate increases, as well as to regulate health plans
+for financial solvency, policy form approval, and consumer protection.(21) There are
+undoubtedly differences in the health care markets across states that might affect the
+generalizability of our findings. In particular, psychiatric inpatient beds are generally
+considered highly constrained in Oregon, which may have limited increases in inpatient use
+after parity.
+Our findings may presage the experience of health plans around the country as federal parity
+is implemented. The experience of Oregon suggests that management of the behavioral
+health benefit does not necessarily need to be different than management of the medicalsurgical
+benefit in order to control costs as the federal parity law goes into place.
+Nonetheless, it does not mean that no management is optimal. In particular, given the
+widespread and broad-based nature of the federal law, we need a greater understanding of
+the types of benefit management that are best at controlling costs and improving quality, in
+order to reap the greatest advantages from the opportunity offered by a national parity law.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+Funded by the National Institute on Drug Abuse (R01DA024024).
+References
+1. Barry CL, Gabel JR, Frank RG, Hawkins S, Whitmore HH, Pickreign JD. Design of mental health
+benefits: still unequal after all these years. Health Aff. 2003; 22:127–37.
+2. Buck JA, Teich JL, Umland B, Stein M. Behavioral Health Benefits in Employer-Sponsored Health
+Plans, 1997. Health Aff. 1999; 18:67–78.
+3. Jensen GA, Rost K, Burton RP, Bulycheva M. Mental Health Insurance in the 1990s: Are
+Employers Offering Less to More? Health Aff. 1998; 17:201–8.
+4. Manning, WG.; Wells, KB.; Buchanan, JL.; Keeler, EB.; Valdez, RB.; Newhouse, JP. Effects of
+mental health insurance: evidence from the health insurance experiment: RAND R-3015-NIMH/
+HCFA1989.
+5. Coalition for Parity, Inc. v. Sebelius, No. 10–527, D.D.C. June 21, 2010.
+6. Barry CL, Frank RG, McGuire TG. The costs of mental health parity: still an impediment? Health
+Aff. 2006; 25:623–34.
+7. Barry CL, Sindelar JL. Equity In Private Insurance Coverage For Substance Abuse: A Perspective
+On Parity. Health Aff. October 23.2007 2007(Web Exclusive)
+8. Goldman HH, Frank RG, Burnam MA, Huskamp HA, Ridgely MS, Normand SL, et al. Behavioral
+health insurance parity for federal employees. N Engl J Med. 2006; 354:1378–86. [PubMed:
+16571881]
+9. Rosenbach, M.; Lake, T.; Young, C.; Conroy, W.; Quinn, B.; Ingels, J., et al. DHHS. Pub. No.
+(SMA) 03–3822. Rockville, MD: Center for Mental Health Services, Substance Abuse and Mental
+McConnell et al. Page 8
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Health Services Administration; 2003. Effects of the Vermont Mental Health and Substance Abuse
+Parity Law.
+10. Sturm R, Goldman W, McCulloch J. Mental health and substance abuse parity: a case study of
+Ohio’s state employee program. J Ment Health Policy Econ. 1998; 1:129–34. [PubMed:
+11971152]
+11. Ma CA, McGuire TG. Costs and incentives in a behavioral health carve-out. Health Aff. 1998;
+17:53–69.
+12. Barry CL, Huskamp HA, Goldman HH. A political history of federal mental health and addiction
+insurance parity. Milbank Q. 2010; 88:404–33. [PubMed: 20860577]
+13. Oregon Insurance Division. [accessed December 1, 2010] Q&A Oregon Mental Health Parity Law
+for Providers. 2008.
+http://www.insurance.oregon.gov/FAQs/mental-health-parity_provider-faqs.pdf
+14. Duan N, Manning W, Morris C, Newhouse J. A comparison of alternative models for the demand
+for medical care. J Business Econ Statist. 1983; 1:115–26.
+15. Manning WG, Mullahy J. Estimating log models: to transform or not to transform? J Health Econ.
+2001; 20:461–94. [PubMed: 11469231]
+16. Hart, G. Rural-urban commuting area codes (version 2.0). 2006. Available from:
+http://depts.washington.edu/uwruca/index.html
+17. Ettner S, Frank RG, McGuire TG, Newhouse JP, Notman EH. Risk Adjustment of Mental Health
+and Substance Abuse Payments. Inquiry. 1998; 35:223–339. [PubMed: 9719789]
+18. Goode, E. The New York Times. 2001. 9 Million Gaining Upgraded Benefit for Mental Care.
+19. Ridgely MS, Burnam MA, Barry CL, Goldman HH, Hennessy KD. Health plans respond to parity:
+managing behavioral health care in the Federal Employees Health Benefits Program. Milbank Q.
+2006; 84:201–18. [PubMed: 16529573]
+20. Merrick EL, Horgan CM, Garnick DW, Reif S, Stewart MT. Accessing specialty behavioral health
+treatment in private health plans. J Behav Health Serv Re. 2009; 36:420–35.
+21. Oregon Insurance Division. [Accessed December 1, 2010] Health Insurance in Oregon. 2010.
+http://insurance.oregon.gov/health_report/3458-health_report-2010-online.pdf
+McConnell et al. Page 9
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Figure 1.
+Thick dark line represents average quarterly spending for MarketScan individuals. The thin
+line represents a linear trend forecast based on the first eight quarters.
+McConnell et al. Page 10
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+McConnell et al. Page 11
+TABLE 1
+Comparison of Oregon and Federal Behavioral Health Parity Laws
+Oregon Parity Law MHPAEA
+Effective date January 2007 July 2010
+Diagnoses covered Requires coverage for all mental health and
+substance abuse diagnoses in the DSM IV,
+with limited exceptionsa
+No requirement
+Quantitative treatment limits Health plans must cover expenses arising from
+mental health and substance abuse treatment at
+the same level as other medical expenses.
+Equivalent coverage with regard to financial
+requirements such as deductibles, co-payments and outof-pocket
+expenses (but exclusive of annual and
+lifetime limits), as well as day and visit limitations.
+Non-quantitative treatment limits
+(pertaining to the management of
+the benefit)
+Does not prohibit insurers from managing
+behavioral health benefits as long as the same
+requirements are imposed on the coverage of
+other medical conditions. Examples include
+management tools such as use of restricted
+provider panels, differential benefit designs,
+preadmission screening, prior authorization,
+case management, and utilization review.
+Limits that are comparable to and applied no more
+stringently to behavioral health benefits than medicalsurgical
+benefits except to the extent that recognized
+clinically appropriate standards of care may permit a
+difference. Examples include medical management
+standards limiting or excluding benefits based on
+medical necessity (including utilization review),
+formulary designs for prescriptions drugs, standards for
+provider network participation, methods for
+determining usual, customary and reasonable charges,
+requirements for “step therapy” or “fail first” policies,
+and exclusions for failure to complete a course of
+treatment.
+Application to in and out- ofnetwork
+benefits
+Applies to both in- and out-of-network
+benefits.
+Applies to both in- and out-of-network benefits.
+Exemptions Does not pertain to commercial self insured
+(ERISA) plans, individual insurance,
+Medicaid, or Medicare
+Allows a health plan to be exempted if the plan can
+prove that parity raised total plan costs by more than
+2% in the first year and 1% thereafter Does not apply to
+groups with 50 or fewer individuals
+a
+The primary exclusions are mental retardation, learning disdorders, some sex-offender-related conditions, and tobacco addiction.
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+McConnell et al. Page 12
+TABLE 2
+Characteristics of Four Oregon Commercial Health Plans
+Characteristic Plan A Plan B Plan C Plan D
+Pre-parity Post-parity Pre-parity Post-parity Pre-parity Post-parity Pre-parity Post-parity
+Coverage limits
+a
+ Inpatient mental health treatment 15 days
+b None 14 days
+c None 14 days
+c None 17 days
+d None
+ Inpatient substance abuse treatment 13 days
+e None $5625
+f None $5625
+f None $5625
+f None
+ Outpatient mental health treatment 34 visits None 29 visits None 35 visits None 45 visits
+g None
+ Outpatient substance abuse treatment 25 visits
+h None 27 visits
+h None $1875
+i None $1875
+i None
+Preauthorization requirement
+ Inpatient mental health and substance abuse treatment Within 48 hours Within 8 days Yes Yes Yes Yes Yes Yes
+ Outpatient mental health and substance abuse treatment No No No No Yes No No No
+Treatment plans
+ Inpatient mental health and substance abuse services Within 48 hours Within 8 days No No
+j No No In place at all times In place at all times
+ Outpatient mental health services After 8 visits After 30 visits No No After 4 visits No After 8 visits After 8 visits
+ Outpatient substance abuse services No No No No No No After 8 visits After 8 visits
+Carve out status No No No No Yes Yes Yes Yes
+aPre-parity coverage limits represent limits over a 24 month time period
+b16 days for children
+c15 days for children
+d18 days for children
+e27 days for children
+f$5000 for children
+g43 visits for children
+h36 visits for children
+i$2500 for children
+jTreatment plans may be requested by case manager, based on review of medical necessity
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+McConnell et al. Page 13
+TABLE 3
+Characteristics of the Study Population
+Characteristic Self Insured Comparison Plan A Plan B Plan C Plan D
+(N=19,634) (N=33,848) (N=21,516) (N=28,685) (N=16,279)
+P-value P-value P-value P-value
+Age 37.2 +/− 18.1 37.4 +/− 17.9 0.23 38.7+/− 17.3 <0.001 37.4 +/−17.4 0.25 36.4 +/− 17.0 <0.001
+Female sex (%) 56 50 <0.001 50 <0.001 51 <0.001 47 <0.001
+Policy holder status (%)
+ Policy holder 49 48 0.001 55 <0.001 54 <0.001 56 <0.001
+ Spouse 20 23 <0.001 18 <0.001 18 <0.001 16 <0.001
+ Dependent 31 28 <0.001 28 <0.001 28 <0.001 28 <0.001
+Rural residence (%) 28 32 <0.001 28 0.89 8 <0.001 30 <0.001
+Pre-parity presence of selected diagnoses
+ Major depression (%) 3.0 2.6 0.01 2.8 0.46 3.2 0.13 2.0 <0.001
+ Anxiety disorders (%)* 5.1 4.9 0.33 5.4 0.16 6.0 0.02 5.0 0.58
+ Schizophrenia & other psychotic disorders (%) 0.21 0.16 0.152 0.17 0.33 0.17 0.28 0.15 0.14
+ Bipolar disorders (%) 0.54 0.58 0.50 0.70 0.37 0.59 0.48 0.37 0.02
+ Substance abuse (%) 0.25 0.07 <0.001 0.23 0.65 0.29 0.45 0.16 0.06
+Pre-parity diagnosis of alcohol abuse (%) 1.1 1.1 0.94 0.8 0.017 1.1 0.44 0.9 0.24
+(P-values designate the statistical significance of the difference between a characteristic of the health plan and comparison group populations.)
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+McConnell et al. Page 14
+TABLE 4
+Probability of Use and Expenditures on Mental Health and Substance Abuse Services
+a
+Plans
+Probability of Use of Mental Health and
+Substance Abuse Services
+b
+Total Mental Health and Substance
+Abuse Spending per Beneficiary
+b Change in Value before and after the Implementation of Parity
+c
+Pre-parity Post-parity Pre-parity Post-parity
+Probability of Use of Mental Health
+and Substance Abuse Services
+Total Mental Health and
+Substance Abuse Spending per
+Beneficiary
+Percent $ Percent (95% CI) $ (95% CI)
+Self Insured Comparison
+Plans (N=19,634)
+23.72 26.08 198.95 256.01 NA NA
+Plan A* (N=33,848) 20.09 21.70 212.33 288.22 −0.72 (−1.19, −0.23)
+d 17.02 (−6.56, 40.25)
+Plan B (N=21,516) 22.96 25.01 231.82 303.00 −0.30 (−0.92, 0.32) 15.32 (−8.13, 46.44)
+Plan C (N=28,685) 20.47 23.10 174.17 246.27 0.28 (−0.23, 0.79) 12.15 (−6.27, 31.61)
+Plan D (N=16,279) 19.49 21.45 157.06 226.27 −0.32 (−0.89, 0.30) 25.49 (−1.82, 71.45)
+Pooled Plans A, B, C, D*
+(N=100,328)
+20.72 22.77 196.60 268.59 −0.28 (−0.79, −0.11)
+§ 15.15 (−1.58, 31.25)
+aCI denotes confidence interval.
+bPre-parity and post-parity figures are annual figures averaged across two years
+cA difference-in-differences analysis was used to account for secular trends.
+d
+P≤0.05
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+McConnell et al. Page 15
+TABLE 5
+Probability of Use and Expenditures on Mental Health and Substance Abuse Services for Children
+a
+Plans
+Probability of Use of Mental Health and
+Substance Abuse Services
+Total Mental Health and Substance
+Abuse Spending per Benefciary Change in Value before and after the Implementation of Parity
+†
+Pre-parity Post-parity Pre-parity Post-parity
+Probability of Use of Mental
+Health and Substance Abuse
+Services
+Total Mental Health and
+Substance Abuse Spending per
+Beneficiary
+Percent $ Percent (95% CI) $ (95% CI)
+Self Insured
+Comparison Plans
+(N=4,870)
+10.84 12.93 152.28 214.53 NA NA
+Plan A (N=8,405) 11.82 13.65 162.63 256.42 −0.28 (1.21, −0.71) 36.62 (−13.43, 96.07)
+Plan B (N=4,705) 11.00 13.69 152.65 252.66 0.46 (−0.83, 1.43) 32.44 (−31.94, 106.59)
+Plan C (N=6,720) 11.27 13.78 124.16 207.02 0.32 (−0.70, 1.35) 15.25 (−38.23, 62.99)
+Plan D (N=4,249) 9.90 11.48 105.81 192.25 −0.48 (−1.39, 0.66) 22.54 (−46.89, 112.15)
+aCI denotes confidence interval.
+bPre-parity and post-parity figures are annual figures averaged across two years
+cA difference-in-differences analysis was used to account for secular trends.
+d
+P≤0.05
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+McConnell et al. Page 16
+TABLE 6
+Difference-in-Differences Results for Out-of-Pocket Spending per User for Mental Health and SubstanceAbuse
+Services with Implementation of Parity.a
+Plans
+Out-of-Pocket Spending for Mental Health and SubstanceAbuse
+Services per User
+Change in Value before and after the
+Implementation of Parityb
+Pre-parity $ Post-parity $ $ (95% CI)
+Self Insured
+Comparison Plans
+213.43 239.27 NA
+Plan A 253.51 249.81 −31.71 (−46.62, −18.09)c
+Plan B 228.40 237.10 −16.70 (−29.79, −1.87)c
+Plan C 201.89 227.73 −0.45. (−10.23, 11.47)
+Plan D 256.62 298.09 21.13 (0.64, 39.91)c
+a
+CI denotes confidence interval.
+b
+A difference-in-differences analysis was used to account for secular trends.
+c
+P≤0.05
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+McConnell et al. Page 17
+Table 7
+Pre-parity prevalence of visits exceeding outpatient mental health limits
+Plan A Plan B Plan C Plan D
+Pre-Parity Mental Health Outpatient Visit Limit (24 month
+limit)
+34 29 35 45
+Pre-Parity Percent of Episodes where Actual Visits Exceed 24
+month limit (# of visits exceeding limit/total outpatient visits)
+5.8% (310/5311) 6.5% (236/3611) 5.6% (280/5019) 2.1% (50/2381)
+Am J Psychiatry. Author manuscript; available in PMC 2013 January 1.
