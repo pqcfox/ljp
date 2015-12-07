@@ -2,13 +2,13 @@ from math import sqrt, floor, ceil
 from PIL import Image, ImageDraw, ImageFilter
 
 hue = 200 
-saturation = 1.0 
-value_bounds = (40, 50)
+saturation = 0.0 
+value_bounds = (90, 100)
 aspect = (8.5, 11)
 box_size = 10
 input_filename = 'article.txt'
 output_filename = 'cover.png' 
-blur_radius = 5 
+blur_radius = 0 
 
 # Read the associated file
 
